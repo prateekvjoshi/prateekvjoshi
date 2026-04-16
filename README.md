@@ -1,5 +1,3 @@
-# Prateek Joshi
-
 Infra Investing at Moxxie Ventures | Author of 13 AI books | Nvidia alum | Recovering Founder
 
 ## Areas of interest
