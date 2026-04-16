@@ -1,16 +1,21 @@
-## Hi there 👋
+# Prateek Joshi
 
-<!--
-**prateekvjoshi/prateekvjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infra Investing at Moxxie Ventures | Author of 13 AI books | Nvidia alum | Recovering Founder
 
-Here are some ideas to get you started:
+## Areas of interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- inference systems
+- post-training infra
+- AI + mathematics
+- agent infra
+- verifiable reasoning
+
+## Building
+
+- **pforge** — CLI to shape and serve open models on your own GPU
+- **phabitat** — CLI to give each agent its own computer on your laptop
+- **pscope** — CLI that scans your machine to tell you which AI models you can actually run
+
+## Reach out
+
+If you're building an infra product, I'd love to chat with you. Reach out on X or LinkedIn.
