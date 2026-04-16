@@ -15,4 +15,4 @@ Infra Investing at Moxxie Ventures | Author of 13 AI books | Nvidia alum | Recov
 
 ## Reach out
 
-If you're building an infra product, I'd love to chat with you. Reach out on X or LinkedIn.
+If you're building an infra product, I'd love to chat with you. Reach out via email, LinkedIn, or X.
