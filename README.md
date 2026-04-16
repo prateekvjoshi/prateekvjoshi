@@ -4,7 +4,7 @@ Infra Investing at Moxxie Ventures | Author of 13 AI books | Nvidia alum | Recov
 
 - [LinkedIn](https://www.linkedin.com/in/prateek-joshi-infinite/)
 - [X](https://x.com/prateekj)
-- [Research column](https://www.infrastartups.com/)
+- [Infra research column](https://www.infrastartups.com/)
 - [Observations](https://prateekjoshi.substack.com/)
 
 ## Building
