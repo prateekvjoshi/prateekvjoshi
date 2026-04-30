@@ -9,11 +9,11 @@ Infra Investing at Moxxie Ventures | Author of 13 AI books | Nvidia alum | Recov
 
 ## Building
 
-- **[pforge](https://github.com/prateekvjoshi/pforge)** — CLI to shape and serve open models on your own GPU
-- **[phabitat](https://github.com/prateekvjoshi/phabitat)** - CLI to give each agent its own computer on your laptop
-- **[pscope](https://github.com/prateekvjoshi/pscope)** - CLI that scans your machine to tell you which AI models you can actually run
-- **[psplice](https://github.com/prateekvjoshi/psplice)** - CLI to perform runtime surgery on foundation models running on your GPU
-- **pworlds** - A collection of verifiable task environments for agents. Each world exposes state, accepts actions, computes objective rewards, records traces, supports replay, and exports training signal.
+- [pforge](https://github.com/prateekvjoshi/pforge) — CLI to shape and serve open models on your own GPU
+- [phabitat](https://github.com/prateekvjoshi/phabitat) - CLI to give each agent its own computer on your laptop
+- [pscope](https://github.com/prateekvjoshi/pscope) - CLI that scans your machine to tell you which AI models you can actually run
+- [psplice](https://github.com/prateekvjoshi/psplice) - CLI to perform runtime surgery on foundation models running on your GPU
+- pworlds - A collection of verifiable task environments for agents. Each world exposes state, accepts actions, computes objective rewards, records traces, supports replay, and exports training signal.
 
 ## Reach out
 
