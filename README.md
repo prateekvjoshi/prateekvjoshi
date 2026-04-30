@@ -13,7 +13,7 @@ Infra Investing at Moxxie Ventures | Author of 13 AI books | Nvidia alum | Recov
 - [phabitat](https://github.com/prateekvjoshi/phabitat) - CLI to give each agent its own computer on your laptop
 - [pscope](https://github.com/prateekvjoshi/pscope) - CLI that scans your machine to tell you which AI models you can actually run
 - [psplice](https://github.com/prateekvjoshi/psplice) - CLI to perform runtime surgery on foundation models running on your GPU
-- pworlds - CLI to build verifiable task environments for agents
+- [pworlds](https://github.com/prateekvjoshi/pworlds) - CLI to build verifiable task environments for agents
 
 ## Reach out
 
